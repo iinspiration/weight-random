@@ -1,0 +1,25 @@
+{
+  "name": "weight-random",
+  "version": "1.0.0",
+  "description": "weighted random with CDC + Linear search algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iinspiration/weight-random.git"
+  },
+  "keywords": [
+    "random",
+    "weight",
+    "draw",
+    "prize"
+  ],
+  "author": "Pichaya P.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iinspiration/weight-random/issues"
+  },
+  "homepage": "https://github.com/iinspiration/weight-random#readme"
+}
